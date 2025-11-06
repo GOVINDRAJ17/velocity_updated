@@ -1,7 +1,5 @@
 # Velocity - Modern Ride Sharing Platform
 
-**URL**: https://lovable.dev/projects/694863b8-29a0-4685-a70b-4b3321bf61d5
-
 ## 🚀 Features
 
 ### Core Functionality
@@ -108,31 +106,3 @@ The project uses Lovable Cloud (Supabase) which is pre-configured. No additional
 - [ ] Push notifications
 - [ ] Google Maps integration
 - [ ] Multi-language support
-
-## 🤝 Contributing
-
-This project is built with Lovable. To contribute:
-
-1. Visit the [Lovable Project](https://lovable.dev/projects/694863b8-29a0-4685-a70b-4b3321bf61d5)
-2. Make changes via prompts or code editor
-3. Changes are committed automatically
-
-## 📄 License
-
-MIT License - feel free to use this project for your own purposes.
-
-## 🔗 Links
-
-- [Lovable Documentation](https://docs.lovable.dev/)
-- [Lovable Cloud](https://docs.lovable.dev/features/cloud)
-- [Project URL](https://lovable.dev/projects/694863b8-29a0-4685-a70b-4b3321bf61d5)
-
-## 💡 Support
-
-For issues or questions:
-- Check the [Lovable Docs](https://docs.lovable.dev/)
-- Join the [Lovable Discord](https://discord.com/channels/1119885301872070706/1280461670979993613)
-
----
-
-Built with ❤️ using [Lovable](https://lovable.dev)
